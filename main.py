@@ -27,7 +27,7 @@ def get_data(filename):
 
 with header:
     st.title('Welcome to my Data Analytics project!')
-    st.text("For this project, I used the New York City taxi transactions, that took place \nin January 2023")
+    st.text("For this project, I used the New York City taxi transactions that took place \nin January 2023")
     
 with dataset:
     #st.header('NYC taxi dataset')
