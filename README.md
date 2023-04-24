@@ -1,4 +1,4 @@
-# NYC taxis application built with Streamlit
+# NYC taxis application built with Streamlit 
 
 <img width="324" alt="Capture d’écran 2023-03-28 à 01 17 28" src="https://user-images.githubusercontent.com/67431758/228088015-9d0e629d-2308-42b4-baae-998c55ef7f84.png">
 
